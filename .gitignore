@@ -9,3 +9,6 @@ desktop.ini
 *.swp
 *.swo
 *~
+
+# 临时文件
+tmpclaude-*
